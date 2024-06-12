@@ -1,10 +1,17 @@
-# time-tracker
-Java (Maven) application for tracking time on the job
+# OlaTimeTracker
 
-## Purpose
+OlaTimeTracker is a customized time tracking application based on time-tracker.
 
-This purpose of this project is to show how to use Maven and Jenkins together.
+## Modifications by Olaseni-dev
 
-Updates, 
+- Updated project metadata
+- Customized UI elements
+- Added new feature X
 
-and more updates
+## Credits
+
+This project is based on the [time-tracker](https://github.com/srctips/time-tracker) project by the srctips team.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
